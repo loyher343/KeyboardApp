@@ -18,7 +18,6 @@ import static java.lang.Math.*;
 
 public class MyView extends GestureOverlayView {
 
-
     Context myContext;
 
     public MyView(Context c){
